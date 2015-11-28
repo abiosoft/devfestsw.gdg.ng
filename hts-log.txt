@@ -1,0 +1,16 @@
+HTTrack3.48-21 launched on Sat, 28 Nov 2015 08:00:00 at http://devfestsw.gdg.ng
+(winhttrack http://devfestsw.gdg.ng -O "/Users/abiola/codes/gdgdevfest" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:00:02	Warning: 	Found for devfestsw.gdg.ng/robots.txt
+08:00:02	Warning: 	Redirected link is identical because of 'URL Hack' option: devfestsw.gdg.ng/robots.txt and devfestsw.gdg.ng/robots.txt
+08:00:02	Warning: 	Can not bear crazy server (Found) for devfestsw.gdg.ng/robots.txt
+08:03:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 1171169 got 1092616): devfestsw.gdg.ng/img/sections-background/google-ad.jpg
+08:03:24	Warning: 	Retry after error -4 (Incorrect length (1092616 Bytes, 1171169 expected)) at link devfestsw.gdg.ng/img/sections-background/google-ad.jpg (from devfestsw.gdg.ng/schedule/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 3 minutes 29 seconds : 64 links scanned, 62 files written (5357482 bytes overall) [4998119 bytes received at 23914 bytes/sec], 558363 bytes transferred using HTTP compression in 19 files, ratio 31%
+(No errors, 5 warnings, 0 messages)
